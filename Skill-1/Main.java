@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Feature Update Added");
+        System.out.println("Bug Fix Applied");
     }
-}
+}  
